@@ -1,2 +1,1 @@
-{"name":"@rolls/std","vers":"0.1.0","deps":[{"name":"@rolls/array","req":"0.1","features":[],"cksum":"sha256:a743ff5e33228e7bb8f4481a13dd9f8e3fb795910ce7ad901a428816f81674ce","features":{"default":[]},"y
-  anked":false}
+{"name":"@rolls/std","vers":"0.1.0","deps":[{"name":"@rolls/array","req":"0.1","features":[],"cksum":"sha256:a743ff5e33228e7bb8f4481a13dd9f8e3fb795910ce7ad901a428816f81674ce","features":{"default":[]},"yanked":false}

@@ -1,2 +1,1 @@
-{"name":"@rolls/fs","vers":"0.1.0","deps":[{"name":"@rolls/async","req":"0.1","features":[],"cksum":"sha256:398f6e18220787f17dc9e1acefeba3e0861352630ffba0bbbc2625fcb370852d","features":{"default":[]},"y
-  anked":false}
+{"name":"@rolls/fs","vers":"0.1.0","deps":[{"name":"@rolls/async","req":"0.1","features":[],"cksum":"sha256:398f6e18220787f17dc9e1acefeba3e0861352630ffba0bbbc2625fcb370852d","features":{"default":[]},"yanked":false}

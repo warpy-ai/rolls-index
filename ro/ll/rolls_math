@@ -1,2 +1,1 @@
-{"name":"@rolls/math","vers":"0.1.0","deps":[],"cksum":"sha256:7d57a300499fffb7a05c2cc5d593f5446e5352f8b04b6d8b4ec1fa293b05ea88","features":{"default":[]},"y
-  anked":false}
+{"name":"@rolls/math","vers":"0.1.0","deps":[],"cksum":"sha256:7d57a300499fffb7a05c2cc5d593f5446e5352f8b04b6d8b4ec1fa293b05ea88","features":{"default":[]},"yanked":false}

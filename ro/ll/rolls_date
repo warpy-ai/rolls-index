@@ -1,2 +1,1 @@
-{"name":"@rolls/date","vers":"0.1.0","deps":[],"cksum":"sha256:8f49ca292a502ac56bb1dd28909b90cf0c78871aac6b6592144f7454d3564c14","features":{"default":[]},"y
-  anked":false}
+{"name":"@rolls/date","vers":"0.1.0","deps":[],"cksum":"sha256:8f49ca292a502ac56bb1dd28909b90cf0c78871aac6b6592144f7454d3564c14","features":{"default":[]},"yanked":false}

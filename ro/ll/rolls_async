@@ -1,2 +1,1 @@
-{"name":"@rolls/async","vers":"0.1.0","deps":[],"cksum":"sha256:3d967dac93129d164a9f0492428e48545c39156d851862a407e309021ceadc72","features":{"default":[]},"y
-  anked":false}
+{"name":"@rolls/async","vers":"0.1.0","deps":[],"cksum":"sha256:3d967dac93129d164a9f0492428e48545c39156d851862a407e309021ceadc72","features":{"default":[]},"yanked":false}

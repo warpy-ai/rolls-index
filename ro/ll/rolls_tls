@@ -1,2 +1,1 @@
-{"name":"@rolls/tls","vers":"0.1.0","deps":[{"name":"@rolls/async","req":"0.1","features":[],"cksum":"sha256:2f42f9d34be15ae573fed7d5e461d0fc0b64e4d467ea46e61479b9ba731830df","features":{"default":[]},"y
-  anked":false}
+{"name":"@rolls/tls","vers":"0.1.0","deps":[{"name":"@rolls/async","req":"0.1","features":[],"cksum":"sha256:2f42f9d34be15ae573fed7d5e461d0fc0b64e4d467ea46e61479b9ba731830df","features":{"default":[]},"yanked":false}
