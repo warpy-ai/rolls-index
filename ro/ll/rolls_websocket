@@ -1,0 +1,2 @@
+{"name":"@rolls/websocket","vers":"0.1.0","deps":[{"name":"@rolls/async","req":"0.1","features":[],"cksum":"sha256:7dfbd72edb82fb0edc8ec5041ebbdb1a7286290b846d437a3e73ec88201332a5","features":{"default":[]},"y
+  anked":false}

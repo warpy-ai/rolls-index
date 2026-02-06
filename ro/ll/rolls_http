@@ -1,0 +1,2 @@
+{"name":"@rolls/http","vers":"0.1.0","deps":[{"name":"optional","req":"*","features":[],"cksum":"sha256:8f96a7f8655c50cdc208936f49b4c4917625102c1bfbf45a5ba72a56ffab961f","features":{"default":[]},"y
+  anked":false}
