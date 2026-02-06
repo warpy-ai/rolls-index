@@ -1,1 +1,1 @@
-{"name":"@rolls/json","vers":"0.1.0","deps":[{"name":"@rolls/string","req":"0.1","features":[],"cksum":"sha256:314ce54166dc26be3a4f738a717477bc78912bb00059878194df81112726916f","features":{"default":[]},"yanked":false}
+{"name":"@rolls/json","vers":"0.1.0","deps":[{"name":"@rolls/string","req":"0.1","features":[],"cksum":"sha256:314ce54166dc26be3a4f738a717477bc78912bb00059878194df81112726916f","features":{"default":[]},"yanked":false,"dl":"https://088fa306a8d5d2b5bd85b0e5202d5a2d.r2.cloudflarestorage.com/rolls-tarballs/rolls/rolls/json/0.1.0.roll"}
